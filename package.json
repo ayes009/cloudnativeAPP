@@ -2,7 +2,7 @@
   "name": "photoshare",
   "version": "1.0.0",
   "description": "A photo sharing application",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "start": "node index.js"
   },
