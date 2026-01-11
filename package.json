@@ -4,7 +4,7 @@
   "description": "A photo sharing application",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.html"
   },
   "dependencies": {}
 }
